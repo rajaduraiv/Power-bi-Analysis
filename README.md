@@ -17,6 +17,8 @@ The raw data (`samplesuperstore`) contains order-level retail transaction record
 Power Query Editor showing the applied steps and cleaned output:
 
 ![Power Query Steps Output]("C:\Users\rajad\OneDrive\Pictures\Screenshots\Screenshot 2026-09-01 135333.png")
+<img width="1917" height="1016" alt="Screenshot 2026-09-01 135333" src="https://github.com/user-attachments/assets/7bcb7537-2230-4fd8-a675-78fee47df229" />
+
 
 ## 🔧 Transformations Applied (Power Query Steps)
 
